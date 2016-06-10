@@ -71,30 +71,24 @@
                     </div>
                     <div class="collapse navbar-collapse" data-menu-anima="fade-bottom">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homes <i class="caret"></i></a>
-                                <ul class="dropdown-menu multi-level">
-                                    <li><a href="index.html">Home 1</a></li>
-                                    <li><a href="index-2.html">Home 2</a></li>
-                                    <li><a href="index-3.html">Home 3</a></li>
-                                    <li><a href="index-4.html">Home 4</a></li>
-                                    <li><a href="index-5.html">Home 5</a></li>
-                                    <li><a href="index-6.html">Home 6</a></li>
-                                </ul>
+                            <li>
+                                <a href="#">Home</a>
                             </li>
                             <li class="dropdown mega-dropdown mega-tabs">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Features <span class="caret"></span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Subjects <span class="caret"></span></a>
                                 <div class="mega-menu dropdown-menu multi-level row bg-menu" style="background-image:url(<?php echo base_url();?>assets/images/menu-bg.jpg)">
                                     <div class="tab-box" data-tab-anima="fade-bottom">
                                         <ul class="nav nav-tabs">
-                                            <li class="active"><a href="#">Titles</a></li>
-                                            <li><a href="#">Headers</a></li>
-                                            <li><a href="#">Components</a></li>
-                                            <li><a href="#">Containers</a></li>
+                                            <li class="active"><a href="#">PHP</a></li>
+                                            <li><a href="#">JAVA</a></li>
+                                            <li><a href="#">C Language</a></li>
+                                            <li><a href="#">PYTHON</a></li>
+                                            <li><a href="#">MySQL</a></li>
+                                            <li><a href="#">ANDROID</a></li>
                                         </ul>
                                         <div class="panel active">
                                             <div class="col">
-                                                <h5>Image background</h5>
+                                                <h5>Configuration</h5>
                                                 <ul class="fa-ul text-s">
                                                     <li><i class="fa-li fa fa-photo"></i> <a href="features/titles/template-title-image.html">Image background</a></li>
                                                     <li><i class="fa-li fa fa-photo"></i> <a href="features/titles/template-title-image-fullscreen.html">Image full-screen</a></li>
@@ -103,7 +97,7 @@
                                                     <li><i class="fa-li fa fa-photo"></i> <a href="features/titles/template-title-image-parallax-ken-burn.html">Image parallax ken-burn</a></li>
                                                 </ul>
                                                 <hr class="space xs">
-                                                <h5>Base titles</h5>
+                                                <h5>Basic Programs</h5>
                                                 <ul class="fa-ul text-s">
                                                     <li><i class="fa-li fa fa-dot-circle-o"></i> <a href="features/titles/template-title-base-1.html">Title base 1</a></li>
                                                     <li><i class="fa-li fa fa-dot-circle-o"></i> <a href="features/titles/template-title-base-2.html">Title base 2</a></li>
@@ -111,7 +105,7 @@
                                                 </ul>
                                             </div>
                                             <div class="col">
-                                                <h5>Video background</h5>
+                                                <h5>Core Web Programming</h5>
                                                 <ul class="fa-ul text-s">
                                                     <li><i class="fa-li fa fa-film"></i> <a href="features/titles/template-title-video-mp4.html">Video background MP4</a></li>
                                                     <li><i class="fa-li fa fa-film"></i> <a href="features/titles/template-title-video-youtube.html">Video background Youtube</a></li>
@@ -120,14 +114,14 @@
                                                     <li><i class="fa-li fa fa-film"></i> <a href="features/titles/template-title-video-parallax.html">Video parallax</a></li>
                                                 </ul>
                                                 <hr class="space xs">
-                                                <h5>Animation background</h5>
+                                                <h5>PHP Frameworks</h5>
                                                 <ul class="fa-ul text-s">
                                                     <li><i class="fa-li fa fa-leaf"></i> <a href="features/titles/template-title-animation.html">Animation background</a></li>
                                                     <li><i class="fa-li fa fa-leaf"></i> <a href="features/titles/template-title-animation-parallax.html">Animation background parallax</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col">
-                                                <h5>Slider background</h5>
+                                                <h5>PHP Questions & Answer</h5>
                                                 <ul class="fa-ul text-s">
                                                     <li><i class="fa-li fa fa-sliders"></i> <a href="features/titles/template-title-slider.html">Slider background</a></li>
                                                     <li><i class="fa-li fa fa-sliders"></i> <a href="features/titles/template-title-slider-fullscreen.html">Slider full-screen</a></li>
